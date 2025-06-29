@@ -1,0 +1,20 @@
+/* #roote{
+    
+} */
+
+.black-button,
+.yellow-button {
+    font-size: 100px;
+    border: 10px solid black;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.black-button {
+    color: white;
+    background-color: black;
+}
+
+.yellow-button {
+    color: black;
+    background-color: yellow;
+}
